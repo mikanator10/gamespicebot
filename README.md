@@ -1,0 +1,2 @@
+# gamespicebot
+GSbot
